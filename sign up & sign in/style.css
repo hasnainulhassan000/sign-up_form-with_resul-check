@@ -1,0 +1,172 @@
+.main{
+    border: 2px black solid;
+    background-color: gray;
+    width: 40%;
+    text-align: center;
+}
+.head{
+    color: blue;
+    text-shadow: 2px 2px 8px #FF0000;
+}
+.color{
+    color: yellow;
+    text-shadow: 0 0 3px #FF0000;
+}
+.color-p{
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.input1{
+    height: 15px;
+    width: 40%;
+}
+.input2{
+    height: 15px;
+    width: 40%;
+}
+.input3{
+    height: 15px;
+    width: 40%;
+}
+.gender{
+    color: blue;
+    text-shadow: 2px 2px #ff0000;
+}
+.btn2{
+    color: white;
+    background-color: red;
+    height: 30px;
+    width: 40%;
+}
+.btn3{
+    color: white;
+    background-color: blue;
+    height: 30px;
+    width: 40%;
+}
+.male{
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.female{
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+hr{
+    width: 60%;
+   background-color: red;
+}
+.link{
+    color: white;
+}
+
+/* sign in */
+.main{
+    border: 2px black solid;
+    background-color: skyblue;
+    width: 30%;
+    text-align: center;
+}
+.head{
+    color: blue;
+    text-shadow: 2px 2px 8px #FF0000;
+}
+.color{
+    color: yellow;
+    text-shadow: 0 0 3px #FF0000;
+}
+.color-p{
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.input1{
+    height: 15px;
+    width: 40%;
+}
+.input2{
+    height: 15px;
+    width: 40%;
+}
+.btn1{
+    color: white;
+    background-color: brown;
+    height: 30px;
+    width: 50%;
+}
+.forgiton{
+    color: yellow;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+hr{
+    width: 60%;
+   background-color: red;
+}
+.btn2{
+    color: white;
+    background-color: red;
+    height: 30px;
+    width: 50%;
+}
+.creat{
+    color: white;
+}
+/* main */
+
+body{
+    background-color: gray;
+}
+.flexx{
+    display: flex;
+    justify-content: space-around;
+    border: 2px solid gray;
+    background-color: lightyellow;
+    color: red;
+  text-shadow: 2px 2px 4px #000000;
+}
+.a{
+    /* margin-bottom:30px ; */
+    color: black;
+  text-shadow: 2px 2px 4px #000000;
+    
+}
+.button:hover {
+    background-color: teal;
+    color: white;
+    cursor: pointer;
+    border-radius: 13em;
+  }
+ input{
+    width: 40%;
+    padding:8px 12px;
+    margin: 5px 2;
+    display: inline-block;
+   border-top: solid 2px blue;
+   border-right: solid 2px green;
+    border-bottom:2px solid red ;
+    border-radius: 3em;
+    box-sizing: border-box;
+ }
+ input:hover {
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF
+  }
+  input {
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+  }
+  .b{
+      color: white;
+      text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+    height: 30px;
+    width: 15%;
+    
+  }
+  .c{ 
+      background-color: lightblue;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+  height: 30px;
+  width: 15%;
+  float: right;
+  }
+  
+ 
